@@ -1,6 +1,6 @@
 # noSQL - RESTapi wiki app - Studio 3T(host database)
 
-Skeleton code for RestfulAPI - WikiApp
+Skeleton code/ BACKEND ONLY for RestfulAPI - WikiApp
 
 ### Built with::
 
@@ -11,8 +11,6 @@ Skeleton code for RestfulAPI - WikiApp
 * body-parser
 
 * express
-
-* ejs
 
 * RestAPI
 
