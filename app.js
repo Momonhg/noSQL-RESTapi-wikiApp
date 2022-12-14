@@ -29,7 +29,7 @@ const articleSchema = new mongoose.Schema({
 //CREATE A MODEL(a collection) for wiki
 const Article = new mongoose.model("Article", articleSchema);
 
-//app.route("/articles").get(req and res inside).post().delete();
+//The skeleton app.route("/articles").get(req and res inside).post().delete();
 
 app.route("/articles").get((req, res) => {
   // GET ALL articles
@@ -146,6 +146,6 @@ Article.findOneAndUpdate(
 
 
 
-app.listen(27017, function() {
-  console.log("Server started on port 27017");
+app.listen(3000, function() {
+  console.log("Server started on port 3000");
 });
