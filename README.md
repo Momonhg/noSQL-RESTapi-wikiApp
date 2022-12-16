@@ -1,4 +1,4 @@
-# noSQL - RESTapi wiki app - Studio 3T(host database)
+# noSQL - RESTapi wiki app 
 
 Skeleton code/ BACKEND ONLY for RestfulAPI - WikiApp
 
@@ -14,6 +14,4 @@ Skeleton code/ BACKEND ONLY for RestfulAPI - WikiApp
 
 * RestAPI
 
-* Studio 3T(hostDatabase)
 
-* Postman (test API)
